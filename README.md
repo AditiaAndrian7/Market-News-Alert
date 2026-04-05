@@ -32,7 +32,7 @@ NewsBot scans global news every 5 minutes and sends real-time updates directly t
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/AditiaAndrian7/Market-News-Alert.git
 cd NEWSBOT
 ```
 ````
